@@ -21,7 +21,7 @@ const server = http.createServer((req, res) => {
                     color: #333;
                 }
                 h1 {
-                    color: #007bff;
+                    color:rgb(228, 15, 139);
                 }
                 footer {
                     margin-top: 20px;
